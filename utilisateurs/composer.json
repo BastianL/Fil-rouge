@@ -1,0 +1,14 @@
+{
+    "name": "bastian_lisrin/utilisateurs_2204",
+    "description": "Ma super géniale application de gestion d'utilisateur qui ignore les normes",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bastian",
+            "email": "toto@localhost.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
